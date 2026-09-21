@@ -1,0 +1,17 @@
+{
+ "iteration": 1061,
+ "date": "2026-08-30T00:02:53PDT",
+ "pras": {
+ "pra-01": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true},
+ "pra-02": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true},
+ "pra-03": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true},
+ "pra-04": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true},
+ "pra-05": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true},
+ "pra-06": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true},
+ "pra-07": {"LP":9,"ST":9,"ER":9,"PI":9,"CO":9,"PE":9,"WQ":9,"em":1,"pass":true}
+ },
+ "thread": "Thread 2: N17 Development law firm / Aug 3 notice primary source verification",
+ "findings": "Allen Matkins Leck Gamble Mallory & Natsis LLP David H. Blackwell File #4922-3800-0066.1/394071.00001 Aug 3 2026 notice to Menlo Park, client Willow Project LLC (not N17), CC Matthew Struhar (DOJ) + Oisin Heneghan (n17.dev), demands approval by Oct 27 2026, refund $300K, AG July 29 letter 10 pages attached. Dual-track AG+developer coordination confirmed via CC. PDF metadata City Clerk Judi Herren create 2026-08-04T12:15:32-07:00.",
+ "articles": "16 @9.0 stable",
+ "commit": "pending"
+}

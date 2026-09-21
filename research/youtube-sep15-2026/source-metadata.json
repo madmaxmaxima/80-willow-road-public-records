@@ -1,0 +1,27 @@
+{
+ "videoId": "gO3j2c4uaII",
+ "title": "September 15, 2026 - City Council",
+ "author": "CityofMenloPark",
+ "authorId": "UCxiwcawMKUMpHPpcQGBE1aw",
+ "lengthSeconds": 18872,
+ "published": 1789516800,
+ "publishedText": "3 days ago",
+ "viewCount": 132,
+ "description_sha256": "74a93a3484046d125c76125e5465b80cf9b517e79a21489b3ba7189133c7bcba",
+ "captions": [
+ {
+ "label": "English (auto-generated)",
+ "languageCode": null
+ }
+ ],
+ "fetched_at": "2026-09-19T01:00:00-07:00",
+ "transcription_method": "Apple SpeechAnalyzer (macOS 26 native) via speech_transcribe, 12-min chunks",
+ "audio_source": "yt-dlp bestaudio from YouTube, Mac Mini residential IP (VM bot-walled)",
+ "published_iso": "2026-09-15T17:00:00-07:00",
+ "transcript_files": [
+ "transcript-sep15-2026.md",
+ "transcript-sep15-2026.json"
+ ],
+ "analysis_file": "analysis-sep15-outcome.md",
+ "published_note": "YouTube publish timestamp = livestream start (meeting evening of Sep 15, 2026)"
+}
